@@ -77,3 +77,24 @@ p{
   padding:12px 35px ;
 
 }
+
+@media(max-width:900px) {
+  .all-info{
+    text-align: center;
+    font-size: 30px;
+  }
+  .project-description{
+    padding: 0;
+    text-align: center;
+    font-size: 14px;
+  }
+  .introduction{
+    text-align: center;
+    font-size:40px;
+  }
+
+  p{
+    text-align: center;
+    font-size: 12px;
+  }
+}
